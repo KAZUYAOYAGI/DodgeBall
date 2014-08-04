@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: c_sp.png (776 x 260)
+# $TexturePacker:SmartUpdate:f41c29ea3a48b323866f11e1d0a0d207:8b9791472c61ea4786a655a0866012f8:2f4407c1cb8ef7d4e476f4bde8f16991$
+#
+
+c_1;518;2;256;256;0.5;0.5
+c_2;260;2;256;256;0.5;0.5
+c_3;2;2;256;256;0.5;0.5
+c_4;260;2;256;256;0.5;0.5
+c_5;518;2;256;256;0.5;0.5

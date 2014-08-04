@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+===================================================================
+
+Sprite sheet file created for UIKit using TexturePacker
+http://www.codeandweb.com/texturepacker
+
+===================================================================
+$TexturePacker:SmartUpdate:85487f7cef9d9fd75121944f418c25c1:2a291b01b6c18cbdd8cad86f2a09698c:e489eb72a1dac3e9a97caaf8aad1ac42$
+-->
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+
+                        <key>btn_reset</key>
+			<dict>
+				<key>x</key><real>305</real>
+				<key>y</key><real>57</real>
+				<key>w</key><real>264</real>
+				<key>h</key><real>98</real>
+				
+				
+			</dict>
+                        <key>button</key>
+			<dict>
+				<key>x</key><real>155</real>
+				<key>y</key><real>2</real>
+				<key>w</key><real>148</real>
+				<key>h</key><real>149</real>
+				
+				
+			</dict>
+                        <key>camera_icon</key>
+			<dict>
+				<key>x</key><real>571</real>
+				<key>y</key><real>57</real>
+				<key>w</key><real>166</real>
+				<key>h</key><real>94</real>
+				
+				
+			</dict>
+                        <key>hp</key>
+			<dict>
+				<key>x</key><real>305</real>
+				<key>y</key><real>2</real>
+				<key>w</key><real>546</real>
+				<key>h</key><real>53</real>
+				
+				
+			</dict>
+                        <key>icon_dead</key>
+			<dict>
+				<key>x</key><real>2</real>
+				<key>y</key><real>2</real>
+				<key>w</key><real>151</real>
+				<key>h</key><real>152</real>
+				
+				
+			</dict>
+		</dict>
+		<key>meta</key>
+		<dict>
+			<key>image</key>
+			<string>ui.png</string>
+			<key>width</key>
+			<integer>853</integer>
+			<key>height</key>
+			<integer>157</integer>
+		</dict>
+	</dict>
+</plist>
